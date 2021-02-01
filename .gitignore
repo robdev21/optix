@@ -1,0 +1,6 @@
+node
+node_modules
+public/build
+backend/dist/
+backend/logs/
+logs/*

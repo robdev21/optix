@@ -1,0 +1,10 @@
+{
+    "ext": "js,ts",
+    "ignore": [
+        ".git",
+        "node_modules/**/node_modules",
+        "public/",
+        "dist/",
+        "scripts/"
+    ]
+}
